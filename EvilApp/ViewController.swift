@@ -72,6 +72,6 @@ class ViewController: UIViewController {
     }
     
     func updateLabel() {
-        self.currentMBLabel.text = "\(bytesArray.count / 1000000)MB"
+        self.currentMBLabel.text = "+ \(bytesArray.count / 1000000)MB in use"
     }
 }
