@@ -33,7 +33,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YWg-Vl-AQL">
                                                 <rect key="frame" x="0.0" y="0.0" width="176.5" height="35"/>
                                                 <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="21"/>
-                                                <state key="normal" title="-1mb"/>
+                                                <state key="normal" title="-1MB"/>
                                                 <connections>
                                                     <action selector="minus1Mb:" destination="BYZ-38-t0r" eventType="touchUpInside" id="N3X-JJ-Yb1"/>
                                                 </connections>
@@ -41,7 +41,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xs8-ff-mQB">
                                                 <rect key="frame" x="0.0" y="68" width="176.5" height="35"/>
                                                 <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="21"/>
-                                                <state key="normal" title="-10mb"/>
+                                                <state key="normal" title="-10MB"/>
                                                 <connections>
                                                     <action selector="minus10MB:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XIH-Pw-lED"/>
                                                 </connections>
@@ -49,7 +49,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SiJ-3G-1Qk">
                                                 <rect key="frame" x="0.0" y="136" width="176.5" height="35"/>
                                                 <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="21"/>
-                                                <state key="normal" title="-100mb"/>
+                                                <state key="normal" title="-100MB"/>
                                                 <connections>
                                                     <action selector="minus100MB:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Mpv-4r-AAe"/>
                                                 </connections>
@@ -62,7 +62,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N04-Eg-wDS">
                                                 <rect key="frame" x="0.0" y="0.0" width="176.5" height="35"/>
                                                 <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="21"/>
-                                                <state key="normal" title="+1mb"/>
+                                                <state key="normal" title="+1MB"/>
                                                 <connections>
                                                     <action selector="plus1MB:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aXl-Jn-GeS"/>
                                                 </connections>
@@ -70,7 +70,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="r9E-QT-giz">
                                                 <rect key="frame" x="0.0" y="68" width="176.5" height="35"/>
                                                 <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="21"/>
-                                                <state key="normal" title="+10mb"/>
+                                                <state key="normal" title="+10MB"/>
                                                 <connections>
                                                     <action selector="plus10MB:" destination="BYZ-38-t0r" eventType="touchUpInside" id="PfB-zB-Vr5"/>
                                                 </connections>
@@ -78,7 +78,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l83-Od-EWt">
                                                 <rect key="frame" x="0.0" y="136" width="176.5" height="35"/>
                                                 <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="21"/>
-                                                <state key="normal" title="+100mb"/>
+                                                <state key="normal" title="+100MB"/>
                                                 <connections>
                                                     <action selector="plus100MB:" destination="BYZ-38-t0r" eventType="touchUpInside" id="AkA-cN-XfV"/>
                                                 </connections>
